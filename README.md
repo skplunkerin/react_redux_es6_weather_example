@@ -1,5 +1,7 @@
 # ReduxSimpleStarter (forked)
 
+(for original fork that turned into this repo example, see [skplunkerin/reduxSimpleStarter_with_gulp](https://github.com/skplunkerin/reduxSimpleStarter_with_gulp).) This repo contains a good example of React Redux in ES6 syntax that stands quite well on it's own as an excellent example of displaying weather.
+
 This project was forked from [StephenGrider/ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter) repo.
 I'm not liking the limitations of `webpack`, in particular: issues with in-consistency in recognizing file changes to trigger re-transforming code, and the long wait time for it to transform code.
 
