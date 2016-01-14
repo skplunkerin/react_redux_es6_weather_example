@@ -1,4 +1,9 @@
-# ReduxSimpleStarter
+# ReduxSimpleStarter (forked)
+
+This project was forked from [StephenGrider/ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter) repo.
+I'm not liking the limitations of `webpack`, in particular: issues with in-consistency in recognizing file changes to trigger re-transforming code, and the long wait time for it to transform code.
+
+I've found much greater success utilizing `gulp`. This fork builds off of Stephen Griders Redux starter, only real difference is it uses `gulp`, along with slight base project changes (basically slight file structure changes and removal of some `npm` packages).
 
 ###Getting Started###
 

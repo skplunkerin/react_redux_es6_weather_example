@@ -1,3 +1,10 @@
 /node_modules
 bundle.js
 npm-debug.log
+
+// vim files
+*.swp
+
+// public files (running `gulp` will build the files needed here)
+public/bundle.js
+public/main.css
